@@ -1,10 +1,5 @@
-# Circus Kitchens
+# Circus Group
 
-🥙 Fresh Food. 
-
-🤑 Affordable Prices.
-
-🚴 We deliver your favourite dish. Dishes starting at 3€.
-
+Disrupting the global food industry with AI and robotics
 
 ### => [We are hiring](https://circus.jobs.personio.com/)
